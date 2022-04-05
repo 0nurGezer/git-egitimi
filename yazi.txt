@@ -1,2 +1,4 @@
 
 bu dosyadir.
+bu dosya değildir.
+bu dosyaya yazmayın
